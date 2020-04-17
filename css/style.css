@@ -1021,7 +1021,7 @@ padding: 19px 15px;
  * ===============================
 */
 .bg-image-1 {
-  background: url("../images/LOGO4.png");
+  background: url("../images/LOGO11.png");
   /* -webkit-background-size: cover; */
   /* -moz-background-size: cover; */
   /* -o-background-size: cover; */
@@ -1108,7 +1108,7 @@ padding: 19px 15px;
  * ====================================
  */
 .bg-image-2 {
-  background: url("../images/LOGO4.png");
+  background: url("../images/LOGO11.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1172,7 +1172,7 @@ padding: 19px 15px;
 .features-section-3 .testimonial-wrapper .item .profile-outer strong {
   font-weight: 400;
 }
-.features-section-3 .owl-controls {
+.features-section-3 .controls {
   margin-top: 20px;
 }
 .features-section-3 .owl-controls .owl-pagination .owl-page span {
